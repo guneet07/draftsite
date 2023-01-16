@@ -939,6 +939,9 @@ h3.doc2{
     padding: 50px 20px;
     padding-bottom: 15px;
 }
+h4.team2, p.team2{
+   text-align: center;
+}
 }
 
 
